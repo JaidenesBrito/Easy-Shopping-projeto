@@ -12,3 +12,5 @@
 <br>
 <br>
 Versão Mobile:
+<br>
+<img src="https://github.com/JaidenesBrito/Projeto-2/blob/master/Assets/Mobile.png?raw=true" alt="Mobile">
