@@ -5,3 +5,10 @@
 <h2>Tecnologias utilizadas<h2>
 -HTML<br>
 -CSS
+<br>
+<br>
+<h2>Vesão PC:<h2>
+<img src="https://github.com/JaidenesBrito/Projeto-2/blob/master/Assets/Desktop.png?raw=true" alt="projeto-desktop">
+<br>
+<br>
+Versão Mobile:
